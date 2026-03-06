@@ -3,4 +3,5 @@
 	url = https://github.com/Permanently/hugo-blog-newcss
 [submodule "themes/hugo-blog-awesome"]
 	path = themes/hugo-blog-awesome
-	url = https://github.com/hugo-sid/hugo-blog-awesome.git
+	url = https://github.com/ShiiFu/hugo-blog-awesome.git
+	branch = fix-hugo-v0.156.0
