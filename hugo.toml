@@ -10,7 +10,7 @@ enableEmoji = true
 ignoreErrors = ["additional-script-loading-error"] # ignore error of loading additional scripts.
 
 # traditional way: theme component resides in directory 'themes'
-theme = "hugo-blog-awesome"
+theme = "hugo-blog-newcss"
 
 # modern way: pull in theme component as hugo module
 #[module]
