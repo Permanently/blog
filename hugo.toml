@@ -54,11 +54,11 @@ theme = "hugo-blog-newcss"
     name = 'Posts'
     url = '/posts/'
     weight = 20
-  [[Languages.en-gb.menu.main]]
-    pageRef="about"
-    name = 'About'
-    url = '/about/'
-    weight = 30
+  # [[Languages.en-gb.menu.main]]
+  #   pageRef="about"
+  #   name = 'About'
+  #   url = '/about/'
+  #   weight = 30
 
 [Languages.en-gb.params]
   sitename = "Billy's Blog"
